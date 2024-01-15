@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/RestoUi/static/css/main.4f2e84ef.css",
+    "main.js": "/RestoUi/static/js/main.7aa3204c.js",
+    "static/js/787.1632bac7.chunk.js": "/RestoUi/static/js/787.1632bac7.chunk.js",
+    "static/media/menu-4.jpg": "/RestoUi/static/media/menu-4.2e0b3a55e1f759e499b8.jpg",
+    "static/media/menu-6.jpg": "/RestoUi/static/media/menu-6.17bc79a852385a00ee2a.jpg",
+    "static/media/menu-1.jpg": "/RestoUi/static/media/menu-1.c39a6f280f876804c828.jpg",
+    "static/media/cart-item-1.jpg": "/RestoUi/static/media/cart-item-1.d331534ce0f844f7f393.jpg",
+    "static/media/cart-item-4.jpg": "/RestoUi/static/media/cart-item-4.2d87d591f5823050c783.jpg",
+    "static/media/blog-3.jpg": "/RestoUi/static/media/blog-3.4526740df434d757adeb.jpg",
+    "static/media/menu-3.jpg": "/RestoUi/static/media/menu-3.0825a1e68e9c1f48dbc8.jpg",
+    "static/media/menu-2.jpg": "/RestoUi/static/media/menu-2.c1f322de04e2d566fec8.jpg",
+    "static/media/cart-item-3.jpg": "/RestoUi/static/media/cart-item-3.4bf168b60ba312f6726a.jpg",
+    "static/media/cart-item-2.jpg": "/RestoUi/static/media/cart-item-2.76848688847d36541bc1.jpg",
+    "static/media/menu-5.jpg": "/RestoUi/static/media/menu-5.640d22c69cb4470357de.jpg",
+    "static/media/blog-4.jpg": "/RestoUi/static/media/blog-4.536f5bbf856be8b67497.jpg",
+    "static/media/home-img.jpg": "/RestoUi/static/media/home-img.f28aca96eef193d9160d.jpg",
+    "static/media/blog-1.jpg": "/RestoUi/static/media/blog-1.72a583ae92cce745357a.jpg",
+    "static/media/blog-2.jpg": "/RestoUi/static/media/blog-2.d847ae73c56b71898827.jpg",
+    "static/media/about.jpg": "/RestoUi/static/media/about.67038ad0652e49a03501.jpg",
+    "static/media/product-1.jpg": "/RestoUi/static/media/product-1.15aad816d58e79714ad8.jpg",
+    "static/media/product-3.jpg": "/RestoUi/static/media/product-3.19a1de4c9d77983ff759.jpg",
+    "static/media/product-2.jpg": "/RestoUi/static/media/product-2.03bdac6af259acc708fc.jpg",
+    "static/media/pic1.png": "/RestoUi/static/media/pic1.39fc2676a71c0be9ba9a.png",
+    "static/media/pic2.png": "/RestoUi/static/media/pic2.ff189eec56a96a928730.png",
+    "static/media/pic3.png": "/RestoUi/static/media/pic3.d6f21c948018e0576872.png",
+    "static/media/logo-no-background.png": "/RestoUi/static/media/logo-no-background.07bd311764198cd8389b.png",
+    "index.html": "/RestoUi/index.html",
+    "main.4f2e84ef.css.map": "/RestoUi/static/css/main.4f2e84ef.css.map",
+    "main.7aa3204c.js.map": "/RestoUi/static/js/main.7aa3204c.js.map",
+    "787.1632bac7.chunk.js.map": "/RestoUi/static/js/787.1632bac7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f2e84ef.css",
+    "static/js/main.7aa3204c.js"
+  ]
+}
